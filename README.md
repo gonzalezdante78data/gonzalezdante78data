@@ -14,7 +14,7 @@ SQL (PostgreSQL) · Python (Pandas, NumPy, Matplotlib) · Power BI (DAX) · Exce
 ## 📊 Proyectos
 | Proyecto | Pregunta de negocio | Herramientas |
 |---|---|---|
-| [Riesgo crediticio – Lending Club](link) | ¿Dónde pierde dinero una cartera de préstamos y cómo ajustar la política de aprobación? | SQL · Python · Power BI |
+| [Riesgo crediticio – Lending Club](https://github.com/gonzalezdante78data/riesgo-crediticio-lending-club) | ¿Dónde pierde dinero una cartera de préstamos y cómo ajustar la política de aprobación? | SQL · Python · Power BI |
 
 ## 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/dantegonzalezcontadornacional) · gonzalezdante78@gmail.com
